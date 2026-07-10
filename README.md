@@ -31,10 +31,10 @@ Custom File Compressor/
 - File Handling
 - os module
 - time module
-- 
+
 ## Requirements
 - Python 3x
-No external libraries are required.
+- No external libraries are required.
 
 ## How to Run
 1. Download or clone the repository.
@@ -45,9 +45,9 @@ python main.py
 
 ## Menu
 
-===================================
-     CUSTOM FILE COMPRESSOR
-===================================
+========================
+ CUSTOM FILE COMPRESSOR
+========================
 
 1. Compress File
 2. Decompress File
