@@ -44,7 +44,6 @@ Custom File Compressor/
 python main.py
 
 ## Menu
-
 ========================
  CUSTOM FILE COMPRESSOR
 ========================
