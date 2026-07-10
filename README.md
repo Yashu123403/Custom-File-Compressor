@@ -44,9 +44,9 @@ Custom File Compressor/
 python main.py
 
 ## Menu
-========================
+
  CUSTOM FILE COMPRESSOR
-========================
+
 
 1. Compress File
 2. Decompress File
