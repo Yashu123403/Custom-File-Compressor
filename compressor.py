@@ -165,7 +165,7 @@ def about():
 
 Algorithm : Run-Length Encoding (RLE)
 --------------
-Language : Python
+Language : Python 3
 --------------
 Features :
 --------------
